@@ -696,3 +696,11 @@ padding: 40px;
   padding: 10px;
 }
 
+
+.CONTECT_US{
+  width: 750px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
